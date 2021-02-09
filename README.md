@@ -1,2 +1,2 @@
 # findLocation
-Find a location, choose a sport depend on a weather!
+App finds a current location, choose a sport depends on a weather!
